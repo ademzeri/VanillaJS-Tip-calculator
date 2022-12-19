@@ -39,9 +39,7 @@ body{
     .container{
         display:flex;
         flex-direction: column;
-        gap:120px;
-
-
+        gap:60px;
     }
     .left,.right{
         display:flex;
